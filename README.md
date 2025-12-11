@@ -40,6 +40,3 @@ make clean    # Remove build artifacts
 - **LRU-K**: Maintains history of last K accesses
 - Proper error handling and memory management
 
-## Submission
-
-Main file: `buffer_mgr.c`
